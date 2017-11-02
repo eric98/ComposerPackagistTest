@@ -1,0 +1,13 @@
+{
+    "name": "ergare17/hello-ng",
+    "description": "bla bla bla",
+    "require": {
+        "fzaninotto/faker": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "eric98",
+            "email": "ergare.17@gmail.com"
+        }
+    ]
+}
